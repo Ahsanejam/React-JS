@@ -21,3 +21,6 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+So I install React App using Vite we can call Vite + React and learn things like root fragments and how to return app to its parents 
+etc... and i can learn about how react works react ease so much to make frontent ui virtual dom etc ...
