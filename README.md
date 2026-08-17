@@ -27,4 +27,9 @@ etc... and i can learn about how react works react ease so much to make frontent
 
 # Components 
 I learn about components in React and how they work and it is a lot of fun to learn these things 
-Basically components is 
+Basically components is a piece of code used for a single feature we can also use for multiple but single is for good practice 
+and why compnents is important so before react if you go to like facebook page in 2011 and if you like any profile picture but they 
+cannot show instantly like these days first you have to reload whole page they you see the like appear means you have to render the 
+whole page then it appears so compnents solve this issue in these days if you click like button in any profile 
+you see the change instantly because the like button is different component and the whole page is different component 
+the component only re render the like button and the whole page looks like the same 
