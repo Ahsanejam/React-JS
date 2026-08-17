@@ -24,3 +24,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 So I install React App using Vite we can call Vite + React and learn things like root fragments and how to return app to its parents 
 etc... and i can learn about how react works react ease so much to make frontent ui virtual dom etc....
+
+# Components 
+I learn about components in React and how they work and it is a lot of fun to learn these things 
+Basically components is 
