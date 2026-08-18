@@ -33,3 +33,10 @@ cannot show instantly like these days first you have to reload whole page they y
 whole page then it appears so compnents solve this issue in these days if you click like button in any profile 
 you see the change instantly because the like button is different component and the whole page is different component 
 the component only re render the like button and the whole page looks like the same 
+
+# Props 
+I learn props and it is amazing how it make so easier to pass the data to ui i basicall make one card and then use components to build 
+multiple of them and then in App.jsx i pass the value on card like how we pass arguments in function same like that 
+in javascript if you make a single function and then call how much you want same here make one card call as much you want 
+and then pass the value in different card then access the value using props and then print the value on the card 
+it is simple all cards ui are same but all cards have different data 
