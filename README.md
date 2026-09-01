@@ -40,3 +40,10 @@ multiple of them and then in App.jsx i pass the value on card like how we pass a
 in javascript if you make a single function and then call how much you want same here make one card call as much you want 
 and then pass the value in different card then access the value using props and then print the value on the card 
 it is simple all cards ui are same but all cards have different data 
+
+# Card Project 
+So i can make a card project using components and props basically i make one card with logo and and other different stuf neat and clean card for jobopening i make only one card and then i use Javascript map method and make a different card component and then 
+i use map method and call the card and i also using array of objects for different company data basically i make one card 
+use array objects for different data and then use map method to create multipe cards using map method 
+call components and pass data using props and then we see how easy to make cards using react and it is very fun to make for sure..
+to sh
