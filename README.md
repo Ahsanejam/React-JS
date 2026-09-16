@@ -49,3 +49,9 @@ call components and pass data using props and then we see how easy to make cards
 to sh
 # Tailwing Css ui project 
 This project we make simple navbar and left content and Right Card Content with different folder structure and learn about atomic folder and components folder structure 
+
+# useState 
+I learn about useState what is it and how to make interactive thing using this Hooks it is simple like how to change some feature 
+form one state to another like for example you have followers button on any other social media platform we see how many people are
+follow if someone follow instantly we see live the change like from 10 to instantly 11 followers we can see clearly live rendering
+on owr website using useState Hooks and i make a simple increment and decrement count ui like if i click increase then it increase by 1 if i click decrease then it decrease by 1 live 
