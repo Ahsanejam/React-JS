@@ -47,3 +47,5 @@ i use map method and call the card and i also using array of objects for differe
 use array objects for different data and then use map method to create multipe cards using map method 
 call components and pass data using props and then we see how easy to make cards using react and it is very fun to make for sure..
 to sh
+# Tailwing Css ui project 
+This project we make simple navbar and left content and Right Card Content with different folder structure and learn about atomic folder and components folder structure 
