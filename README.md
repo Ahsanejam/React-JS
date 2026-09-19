@@ -55,3 +55,8 @@ I learn about useState what is it and how to make interactive thing using this H
 form one state to another like for example you have followers button on any other social media platform we see how many people are
 follow if someone follow instantly we see live the change like from 10 to instantly 11 followers we can see clearly live rendering
 on owr website using useState Hooks and i make a simple increment and decrement count ui like if i click increase then it increase by 1 if i click decrease then it decrease by 1 live 
+
+
+# form handling 
+I learn about form handling in React i already know this in javascript i know preventDefault() method is use to not reload the page after
+you submit the input in javascript but I revise this before the react 
