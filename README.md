@@ -60,3 +60,8 @@ on owr website using useState Hooks and i make a simple increment and decrement 
 # form handling 
 I learn about form handling in React i already know this in javascript i know preventDefault() method is use to not reload the page after
 you submit the input in javascript but I revise this before the react 
+
+# Notes app
+Previously i Learn about useState hook and form handling and two way binding basically the two way binding is we cannot directly do 
+things in DOM instead of we tell react to do things for my self so first we tell react and then react do things and then react respond 
+two way binding is mostly use for forms and I make notes app you can add any work or notes and also delete it 
