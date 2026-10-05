@@ -47,6 +47,7 @@ i use map method and call the card and i also using array of objects for differe
 use array objects for different data and then use map method to create multipe cards using map method 
 call components and pass data using props and then we see how easy to make cards using react and it is very fun to make for sure..
 to sh
+
 # Tailwing Css ui project 
 This project we make simple navbar and left content and Right Card Content with different folder structure and learn about atomic folder and components folder structure 
 
@@ -56,6 +57,13 @@ form one state to another like for example you have followers button on any othe
 follow if someone follow instantly we see live the change like from 10 to instantly 11 followers we can see clearly live rendering
 on owr website using useState Hooks and i make a simple increment and decrement count ui like if i click increase then it increase by 1 if i click decrease then it decrease by 1 live 
 
+#UseEffect
+It is use to basically side rendering in the website for example if assume react is a truck who occupy all the space in road 
+useEffect is cycle run in the sidewalk that's it it is very useful 
+
+# Gallery project 
+ Basially i use free api to call the images and then print the image in the website i use useeffect for side rendering and there is so much fun to make this 
+ 
 
 # form handling 
 I learn about form handling in React i already know this in javascript i know preventDefault() method is use to not reload the page after
@@ -65,3 +73,6 @@ you submit the input in javascript but I revise this before the react
 Previously i Learn about useState hook and form handling and two way binding basically the two way binding is we cannot directly do 
 things in DOM instead of we tell react to do things for my self so first we tell react and then react do things and then react respond 
 two way binding is mostly use for forms and I make notes app you can add any work or notes and also delete it 
+
+# Complete  React 
+basically i learn complete react make a lot of projects and i understand is that it is very useful liberary it make so easy to make simple ui and complex ui in javascript every small features takes a lot of time to build but in react it is easy to build 
